@@ -60,7 +60,7 @@ if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_pa
 收获：掌握了云服务器购买流程、安全组配置、远程连接方式（SSH / VNC）
 
 
-### 阶段三：搭建网站运行环境（宝塔面板 + LNMP）
+### 阶段三:搭建网站运行环境（宝塔面板 + LNMP）
 
 **状态：** ✅ 已完成
 
